@@ -53,9 +53,6 @@ npm run lint
 
 This repository currently provides a runnable **web frontend**, not a deployed hospital network or emergency dispatch service. In the current React app, sample hospital data and bookings are maintained in client-side state; they are not a persistent clinical database. The mobile source code is not included as a normal directory in the current Git tree.
 
-## Screenshots
-
-Add genuine screenshots or a demo video here after checking that they contain no personal or medical information. A short walkthrough of hospital search, comparison, and staff views would be useful for internship reviewers.
 
 ## Author
 
